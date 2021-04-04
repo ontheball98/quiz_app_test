@@ -1,5 +1,5 @@
 I have apointment today at night. So, I change my quiz app code right now. 21/04/01
-Today is Friday. So I want to get some rest. 21/04/02
+Today is Friday. So I want to get some rest. 21/04/02.
 # quiz_app_test
 
 
