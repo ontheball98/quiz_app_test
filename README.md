@@ -12,7 +12,7 @@ Tomorrow, I will leave hospital. I decide to take a class about gray's making mu
 21/04/26 listening my music class.
 21/04/27 good class.
 
-A new Flutter project..
+A new Flutter project.
 
 ## Getting Started
 
